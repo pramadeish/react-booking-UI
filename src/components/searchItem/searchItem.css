@@ -77,7 +77,7 @@
     font-weight: 500;
 }
 .siRating>button{
-    background-color: rgb(81,81,141);
+    background-color: #0071c2;
     color: white;
     padding: 5px;
     font-weight: bold;
@@ -101,7 +101,7 @@
 }
 
 .siCheckButton{
-    background-color: rgb(81,81,141);
+    background-color: #0071c2;
     color: white;
     font-weight: bold;
     padding: 10px 5px;
